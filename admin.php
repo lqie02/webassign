@@ -105,6 +105,7 @@ $i = 1;
         <div class="section-title">
           <h2>Comment</h2>
         </div>
+		  <div class="table-responsive">
 		  <table class = "table table-bordered text-center">
 			  <thead class="table-dark">
 				  <tr>
@@ -137,6 +138,7 @@ $i = 1;
 				  </tr> <?php } ?>
 			  </tbody>
 		  </table>
+		</div>
       </div>
     </section>
   </main>
